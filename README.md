@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Typography-Digital-Layout-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Typography-Digital-Layout-Tools?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Typography-Digital-Layout-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Typography-Digital-Layout-Tools?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Typography-Digital-Layout-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Typography-Digital-Layout-Tools?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Typography-Digital-Layout-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Typography-Digital-Layout-Tools?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Typography-Digital-Layout-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -70,9 +70,9 @@ The table below lists leading commercial SaaS and hosted platforms for typograph
 
 ## 💻 Open-Source GitHub Projects
 
-The table below catalogs active, battle-tested open-source repositories powering modern digital typesetting, font engineering, outline rasterization, and responsive web typography. Each project includes a real-time star badge linking directly to its stargazer community, ranked in descending order by total GitHub star count.
+The table below catalogs active, battle-tested open-source repositories powering modern digital typesetting, font engineering, outline rasterization, and responsive web typography. Each project includes a real-time Stars_Badge linking directly to its stargazer community, ranked in descending order by total GitHub Stars_Count.
 
-| Project & Repository | GitHub Stars | Primary Language / Stack | Description & Core Capabilities |
+| Project & Repository | GitHub_Stars | Primary Language / Stack | Description & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Fira Code](https://github.com/tonsky/FiraCode)** | <a href="https://github.com/tonsky/FiraCode/stargazers"><img src="https://img.shields.io/github/stars/tonsky/FiraCode?style=social&color=white" alt="FiraCode Stars" /></a> | Clojure / FontTools | Free monospaced font with programming ligatures for ASCII character combinations (`=>`, `===`, `!=`), OpenType stylistic sets, and variable font support. |
 | **[Typst](https://github.com/typst/typst)** | <a href="https://github.com/typst/typst/stargazers"><img src="https://img.shields.io/github/stars/typst/typst?style=social&color=white" alt="Typst Stars" /></a> | Rust | Next-generation, blazingly fast markup-based typesetting system built as a programmable modern alternative to LaTeX for research papers, books, and reports. |
